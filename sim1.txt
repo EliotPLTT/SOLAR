@@ -1,0 +1,5 @@
+SPACE_X=1000
+SPACE_Y=1000
+G=6.67
+INBOUND=0
+PLANETS=[{"name":"soleil","mass":500,"pos":[500,500],"speed":[0,0],"color":[255,255,0],"diameter":20},{"name":"terre","mass":3,"pos":[600,500],"speed":[-2,20],"color":[0,0,255],"diameter":10},{"name":"mars","mass":3,"pos":[650,500],"speed":[-10,20],"color":[255,0,0],"diameter":10}]
